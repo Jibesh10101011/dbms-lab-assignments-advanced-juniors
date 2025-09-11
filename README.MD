@@ -56,9 +56,9 @@ sudo apt install build-essential
 
 * [Modify the previous program to use threads to achieve parallelism when inserting rows. Compare the time taken for inserting all data sequentially vs using threads.](assignments/assignment2.md)
 
+---
 
-
-# Contributing to DBMS Lab Assignments
+## Contributing to DBMS Lab Assignments
 
 Thank you for your interest in contributing! This repository contains advanced DBMS lab assignments for juniors, with algorithm-focused exercises in C++, Python, Go, Rust, and Node.js. By contributing, you help create a high-quality learning resource for everyone.
 

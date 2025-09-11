@@ -1,0 +1,8 @@
+[package]
+name = "rust-mysql-csv"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mysql = "24.0"
+csv = "1.3"

@@ -1,4 +1,4 @@
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors)
 
 # DBMS Lab Assignment
 

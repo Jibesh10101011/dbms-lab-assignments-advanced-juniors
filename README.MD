@@ -1,4 +1,20 @@
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors)
+## Status
+
+**Releases:**  
+[![GitHub release](https://img.shields.io/github/v/release/Jibesh10101011/dbms-lab-assignments-advanced-juniors)](https://github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors/releases)  
+[![GitHub commits](https://img.shields.io/github/commits-since/Jibesh10101011/dbms-lab-assignments-advanced-juniors/latest)](https://github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors/commits/main)
+
+**Code:**  
+[![Build Status](https://github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors/actions/workflows/ci.yml/badge.svg)](https://github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors/actions)  
+[![codecov](https://codecov.io/gh/Jibesh10101011/dbms-lab-assignments-advanced-juniors/branch/main/graph/badge.svg)](https://codecov.io/gh/Jibesh10101011/dbms-lab-assignments-advanced-juniors)  
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/0000/badge)](https://bestpractices.coreinfrastructure.org/)  
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Jibesh10101011/dbms-lab-assignments-advanced-juniors)  
+[![License Scan](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJibesh10101011%2Fdbms-lab-assignments-advanced-juniors.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJibesh10101011%2Fdbms-lab-assignments-advanced-juniors?ref=badge_shield)
+
+**Social:**  
+[![Follow on Twitter](https://img.shields.io/twitter/follow/Jibesh10101011?style=social)](https://twitter.com/Jibesh10101011)  
+[![GitHub followers](https://img.shields.io/github/followers/Jibesh10101011?style=social)](https://github.com/Jibesh10101011)
+
 
 # DBMS Lab Assignment
 
